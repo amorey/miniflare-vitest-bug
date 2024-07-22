@@ -21,7 +21,8 @@
 
     /* misc */
     "types": [
-      "vitest/globals"
+      "vitest/globals",
+      "@cloudflare/vitest-pool-workers"
     ]
   },
   "include": ["src"]
